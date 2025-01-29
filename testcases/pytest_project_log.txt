@@ -1,0 +1,22 @@
+2024-12-16 14:29:27 INFO conftest pytest_runtest_call 122  当前是第 1 次执行
+2024-12-16 14:29:27 INFO test_user_center_copy test_login 32  第一步：启动app
+2024-12-16 14:29:27 INFO test_user_center_copy test_login 34  app启动成功！
+2024-12-16 14:29:27 INFO test_user_center_copy test_login 39  第二步：点击 登录
+2024-12-16 14:29:29 INFO test_user_center_copy test_login 47  第三步：输入邮箱：1499405887@qq.com
+2024-12-16 14:29:29 INFO test_user_center_copy test_login 52  收起键盘
+2024-12-16 14:29:31 INFO test_user_center_copy test_login 62  第四步：输入密码：Qwe222222
+2024-12-16 14:29:32 INFO test_user_center_copy test_login 66  收起键盘
+2024-12-16 14:29:33 INFO test_user_center_copy test_login 74  第五步：默认是中国的话，不需要点击进入地区选择列表
+2024-12-16 14:29:35 INFO test_user_center_copy test_login 91  第六步：点击登录按钮
+2024-12-16 14:29:39 INFO test_user_center_copy test_login 108  进入首页后开始断言：导航按钮、+、设备、云存储、在线客服
+2024-12-16 14:29:44 INFO conftest pytest_runtest_makereport 109  Test testcases/test_user_center_copy.py::test_login[cn_test]: PASSED
+
+2024-12-16 14:29:44 INFO conftest pytest_runtest_call 122  当前是第 2 次执行
+2024-12-16 14:29:44 INFO test_user_center_copy test_login 32  第一步：启动app
+2024-12-16 14:29:44 INFO test_user_center_copy test_login 34  app启动成功！
+2024-12-16 14:29:44 INFO test_user_center_copy test_login 39  第二步：点击 登录
+2024-12-16 14:29:46 INFO test_user_center_copy test_login 47  第三步：输入邮箱：1499405887@qq.com
+2024-12-16 14:29:46 INFO test_user_center_copy test_login 52  收起键盘
+2024-12-16 14:29:48 INFO test_user_center_copy test_login 62  第四步：输入密码：Qwe111111
+2024-12-16 14:29:49 INFO test_user_center_copy test_login 66  收起键盘
+2024-12-16 14:29:56 INFO test_user_center_copy test_login 83  第五步：默认不是中国，需要在地区列表中滚动查找到中国
