@@ -1,0 +1,32 @@
+iPhoneX:
+  platformName: iOS
+  appium:udid: f89d929e8c45a81c0fe2d22f80c1a36e227e90ef
+  appium:automationName: XCUITest
+  appium:platformVersion: !!str 16.5.1
+  appium:newCommandTimeout: 600
+
+iPhoneXR:
+  platformName: iOS
+  appium:udid: 00008020-001828440A69002E
+  appium:automationName: XCUITest
+  appium:platformVersion: !!str 17.5.1
+  appium:newCommandTimeout: 600
+
+iPhone7:
+  platformName: iOS
+  appium:udid: 9c1af01e5515cdc8dcca84e197a3d6019f35ef23
+  appium:automationName: XCUITest
+  appium:platformVersion: !!str 14.7.1
+  appium:newCommandTimeout: 600
+
+S10e:
+  platformName: Android
+  appium:automationName: uiautomator2
+  appium:deviceName: R58M165SSVL
+  appium:udid: R58M165SSVL
+  appium:platformVersion: "12"
+  appium:appPackage: com.glazero.android
+  appium:appActivity: com.glazero.android.SplashActivity
+  appium:noReset: true
+  appium:autoGrantPermissions: true
+  appium:newCommandTimeout: 360000

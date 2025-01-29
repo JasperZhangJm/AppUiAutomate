@@ -1,0 +1,76 @@
+2025-01-09 14:39:14 INFO conftest pytest_runtest_call 172  当前是第 1 次执行
+2025-01-09 14:39:44 INFO test_login_and_logout test_login_change_region 264  登录loading完成
+2025-01-09 14:40:03 INFO test_login_and_logout test_login_change_region 312  进入首页后开始断言：导航按钮、+、设备、云存储、在线客服
+2025-01-09 14:40:04 INFO test_login_and_logout test_login_change_region 329  进入首页成功，对应大区在首页检测到了
+2025-01-09 14:40:05 INFO test_login_and_logout test_logout 346  logout: 点击左上角 导航 按钮
+2025-01-09 14:40:08 INFO test_login_and_logout test_logout 358  logout: 点击 退出登录
+2025-01-09 14:40:09 INFO test_login_and_logout test_logout 364  logout: 点击确定
+2025-01-09 14:40:11 INFO test_login_and_logout test_logout 371  logout: 回到了登录页面
+2025-01-09 14:40:13 INFO test_login_and_logout test_logout 381  logout: 回到了启动页面
+2025-01-09 14:40:13 INFO conftest pytest_runtest_makereport 159  Test Android/test_login_and_logout.py::test_login_change_region[cn_test0]: PASSED
+
+2025-01-09 14:40:19 INFO conftest pytest_runtest_call 172  当前是第 2 次执行
+2025-01-09 14:40:33 INFO gz_public region_search_for_android 245  gz_public::region_search_for_android国家名字是：美国
+2025-01-09 14:40:34 INFO gz_public region_search_for_android 254  gz_public::region_search_for_android country_code是：美国  +1
+2025-01-09 14:40:53 INFO test_login_and_logout test_login_change_region 264  登录loading完成
+2025-01-09 14:41:12 INFO test_login_and_logout test_login_change_region 312  进入首页后开始断言：导航按钮、+、设备、云存储、在线客服
+2025-01-09 14:41:13 INFO test_login_and_logout test_login_change_region 329  进入首页成功，对应大区在首页检测到了
+2025-01-09 14:41:14 INFO test_login_and_logout test_logout 346  logout: 点击左上角 导航 按钮
+2025-01-09 14:41:17 INFO test_login_and_logout test_logout 358  logout: 点击 退出登录
+2025-01-09 14:41:18 INFO test_login_and_logout test_logout 364  logout: 点击确定
+2025-01-09 14:41:20 INFO test_login_and_logout test_logout 371  logout: 回到了登录页面
+2025-01-09 14:41:22 INFO test_login_and_logout test_logout 381  logout: 回到了启动页面
+2025-01-09 14:41:22 INFO conftest pytest_runtest_makereport 159  Test Android/test_login_and_logout.py::test_login_change_region[us0]: PASSED
+
+2025-01-09 14:41:27 INFO conftest pytest_runtest_call 172  当前是第 3 次执行
+2025-01-09 14:41:41 INFO gz_public region_search_for_android 245  gz_public::region_search_for_android国家名字是：德国
+2025-01-09 14:41:43 INFO gz_public region_search_for_android 254  gz_public::region_search_for_android country_code是：德国  +49
+2025-01-09 14:42:03 INFO test_login_and_logout test_login_change_region 264  登录loading完成
+2025-01-09 14:42:22 INFO test_login_and_logout test_login_change_region 312  进入首页后开始断言：导航按钮、+、设备、云存储、在线客服
+2025-01-09 14:42:22 INFO test_login_and_logout test_login_change_region 329  进入首页成功，对应大区在首页检测到了
+2025-01-09 14:42:24 INFO test_login_and_logout test_logout 346  logout: 点击左上角 导航 按钮
+2025-01-09 14:42:27 INFO test_login_and_logout test_logout 358  logout: 点击 退出登录
+2025-01-09 14:42:28 INFO test_login_and_logout test_logout 364  logout: 点击确定
+2025-01-09 14:42:30 INFO test_login_and_logout test_logout 371  logout: 回到了登录页面
+2025-01-09 14:42:32 INFO test_login_and_logout test_logout 381  logout: 回到了启动页面
+2025-01-09 14:42:32 INFO conftest pytest_runtest_makereport 159  Test Android/test_login_and_logout.py::test_login_change_region[eu0]: PASSED
+
+2025-01-09 14:42:37 INFO conftest pytest_runtest_call 172  当前是第 4 次执行
+2025-01-09 14:42:50 INFO gz_public region_search_for_android 245  gz_public::region_search_for_android国家名字是：中国
+2025-01-09 14:42:52 INFO gz_public region_search_for_android 254  gz_public::region_search_for_android country_code是：中国  +86
+2025-01-09 14:43:09 INFO test_login_and_logout test_login_change_region 264  登录loading完成
+2025-01-09 14:43:28 INFO test_login_and_logout test_login_change_region 312  进入首页后开始断言：导航按钮、+、设备、云存储、在线客服
+2025-01-09 14:43:29 INFO test_login_and_logout test_login_change_region 329  进入首页成功，对应大区在首页检测到了
+2025-01-09 14:43:30 INFO test_login_and_logout test_logout 346  logout: 点击左上角 导航 按钮
+2025-01-09 14:43:33 INFO test_login_and_logout test_logout 358  logout: 点击 退出登录
+2025-01-09 14:43:34 INFO test_login_and_logout test_logout 364  logout: 点击确定
+2025-01-09 14:43:36 INFO test_login_and_logout test_logout 371  logout: 回到了登录页面
+2025-01-09 14:43:38 INFO test_login_and_logout test_logout 381  logout: 回到了启动页面
+2025-01-09 14:43:38 INFO conftest pytest_runtest_makereport 159  Test Android/test_login_and_logout.py::test_login_change_region[cn_test1]: PASSED
+
+2025-01-09 14:43:43 INFO conftest pytest_runtest_call 172  当前是第 5 次执行
+2025-01-09 14:43:57 INFO gz_public region_search_for_android 245  gz_public::region_search_for_android国家名字是：美国
+2025-01-09 14:43:58 INFO gz_public region_search_for_android 254  gz_public::region_search_for_android country_code是：美国  +1
+2025-01-09 14:44:18 INFO test_login_and_logout test_login_change_region 264  登录loading完成
+2025-01-09 14:44:37 INFO test_login_and_logout test_login_change_region 312  进入首页后开始断言：导航按钮、+、设备、云存储、在线客服
+2025-01-09 14:44:38 INFO test_login_and_logout test_login_change_region 329  进入首页成功，对应大区在首页检测到了
+2025-01-09 14:44:39 INFO test_login_and_logout test_logout 346  logout: 点击左上角 导航 按钮
+2025-01-09 14:44:42 INFO test_login_and_logout test_logout 358  logout: 点击 退出登录
+2025-01-09 14:44:43 INFO test_login_and_logout test_logout 364  logout: 点击确定
+2025-01-09 14:44:45 INFO test_login_and_logout test_logout 371  logout: 回到了登录页面
+2025-01-09 14:44:47 INFO test_login_and_logout test_logout 381  logout: 回到了启动页面
+2025-01-09 14:44:47 INFO conftest pytest_runtest_makereport 159  Test Android/test_login_and_logout.py::test_login_change_region[us1]: PASSED
+
+2025-01-09 14:44:52 INFO conftest pytest_runtest_call 172  当前是第 6 次执行
+2025-01-09 14:45:06 INFO gz_public region_search_for_android 245  gz_public::region_search_for_android国家名字是：德国
+2025-01-09 14:45:08 INFO gz_public region_search_for_android 254  gz_public::region_search_for_android country_code是：德国  +49
+2025-01-09 14:45:28 INFO test_login_and_logout test_login_change_region 264  登录loading完成
+2025-01-09 14:45:47 INFO test_login_and_logout test_login_change_region 312  进入首页后开始断言：导航按钮、+、设备、云存储、在线客服
+2025-01-09 14:45:47 INFO test_login_and_logout test_login_change_region 329  进入首页成功，对应大区在首页检测到了
+2025-01-09 14:45:49 INFO test_login_and_logout test_logout 346  logout: 点击左上角 导航 按钮
+2025-01-09 14:45:52 INFO test_login_and_logout test_logout 358  logout: 点击 退出登录
+2025-01-09 14:45:53 INFO test_login_and_logout test_logout 364  logout: 点击确定
+2025-01-09 14:45:55 INFO test_login_and_logout test_logout 371  logout: 回到了登录页面
+2025-01-09 14:45:57 INFO test_login_and_logout test_logout 381  logout: 回到了启动页面
+2025-01-09 14:45:57 INFO conftest pytest_runtest_makereport 159  Test Android/test_login_and_logout.py::test_login_change_region[eu1]: PASSED
+
