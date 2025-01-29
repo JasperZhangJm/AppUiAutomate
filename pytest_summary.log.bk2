@@ -1,0 +1,5 @@
+Pytest Summary
+Exit Status: 0
+Result:
+('3 passed', {'green': True, 'bold': False}) ('3 warnings', {'yellow': True, 'bold': True})
+y e l l o w
